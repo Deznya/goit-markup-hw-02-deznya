@@ -75,7 +75,7 @@ a {
 
 
 /* Скрываем h1 */
-.List-works {
+.list-works {
     display: none
 }
 
@@ -309,8 +309,6 @@ line-height: 1.6;
 .section-title {
     text-transform:uppercase
 }
-
-
 
 
 .section-paragraph {
